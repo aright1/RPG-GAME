@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 30E7C21A
+/// @DnDHash : 4FB5CAE2
 /// @DnDArgument : "expr" "var_speed"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "y"
-y += var_speed;
+/// @DnDArgument : "var" "x"
+x += var_speed;

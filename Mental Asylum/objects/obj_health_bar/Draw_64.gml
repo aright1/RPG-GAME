@@ -35,11 +35,14 @@ draw_text(12, 13, string("Lives: ") + "");
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
 /// @DnDHash : 5A5D28AD
+/// @DnDArgument : "x" "57"
+/// @DnDArgument : "y" "12"
 /// @DnDArgument : "sprite" "spr_heart"
+/// @DnDArgument : "number" "global.lives"
 /// @DnDSaveInfo : "sprite" "spr_heart"
 var l5A5D28AD_0 = sprite_get_width(spr_heart);
 var l5A5D28AD_1 = 0;
-for(var l5A5D28AD_2 = 1; l5A5D28AD_2 > 0; --l5A5D28AD_2) {
-	draw_sprite(spr_heart, 0, 0 + l5A5D28AD_1, 0);
+for(var l5A5D28AD_2 = global.lives; l5A5D28AD_2 > 0; --l5A5D28AD_2) {
+	draw_sprite(spr_heart, 0, 57 + l5A5D28AD_1, 12);
 	l5A5D28AD_1 += l5A5D28AD_0;
 }

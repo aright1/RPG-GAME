@@ -7,7 +7,7 @@
     "path": "sprites/spr_win/spr_win.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

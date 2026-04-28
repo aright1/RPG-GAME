@@ -7,7 +7,7 @@
     "path": "sprites/spr_next_level/spr_next_level.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

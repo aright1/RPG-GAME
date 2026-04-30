@@ -1,0 +1,23 @@
+{
+  "resourceType": "GMSound",
+  "resourceVersion": "1.0",
+  "name": "universfield_man_scream_08_352438",
+  "audioGroupId": {
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
+  },
+  "soundFile": "universfield_man_scream_08_352438.mp3",
+  "conversionMode": 0,
+  "compression": 0,
+  "volume": 1.0,
+  "preload": false,
+  "bitRate": 128,
+  "sampleRate": 44100,
+  "type": 0,
+  "bitDepth": 1,
+  "duration": 5.088,
+  "parent": {
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
+  },
+}

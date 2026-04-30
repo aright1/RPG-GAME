@@ -3,7 +3,6 @@
   "resourceVersion": "1.6",
   "name": "Mental Asylum",
   "resources": [
-    {"id":{"name":"obj_health_bar","path":"objects/obj_health_bar/obj_health_bar.yy",},"order":8,},
     {"id":{"name":"spr_exit","path":"sprites/spr_exit/spr_exit.yy",},"order":23,},
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},"order":22,},
     {"id":{"name":"spr_lose","path":"sprites/spr_lose/spr_lose.yy",},"order":17,},

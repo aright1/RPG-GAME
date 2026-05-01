@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 012B6E5A
-/// @DnDArgument : "color" "$FF0532FF"
-draw_set_colour($FF0532FF & $ffffff);
-var l012B6E5A_0=($FF0532FF >> 24);
+/// @DnDArgument : "color" "$A6676767"
+draw_set_colour($A6676767 & $ffffff);
+var l012B6E5A_0=($A6676767 >> 24);
 draw_set_alpha(l012B6E5A_0 / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Rectangle
@@ -19,9 +19,9 @@ draw_rectangle(7, 5, 175, 40, 0);
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
 /// @DnDHash : 004C6936
-/// @DnDArgument : "color" "$FF14FF7A"
-draw_set_colour($FF14FF7A & $ffffff);
-var l004C6936_0=($FF14FF7A >> 24);
+/// @DnDArgument : "color" "$FF0000FF"
+draw_set_colour($FF0000FF & $ffffff);
+var l004C6936_0=($FF0000FF >> 24);
 draw_set_alpha(l004C6936_0 / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value

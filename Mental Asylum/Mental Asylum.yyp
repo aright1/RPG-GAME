@@ -40,6 +40,7 @@
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},"order":5,},
     {"id":{"name":"spr_doctor_spritesheet","path":"sprites/spr_doctor_spritesheet/spr_doctor_spritesheet.yy",},"order":9,},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},"order":7,},
+    {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},"order":28,},
     {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},"order":21,},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},"order":1,},
     {"id":{"name":"spr_patient","path":"sprites/spr_patient/spr_patient.yy",},"order":16,},

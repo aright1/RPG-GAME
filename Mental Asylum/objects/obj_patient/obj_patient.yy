@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_patient",
   "spriteId": {
-    "name": "spr_patient",
-    "path": "sprites/spr_patient/spr_patient.yy",
+    "name": "Sprite24",
+    "path": "sprites/Sprite24/Sprite24.yy",
   },
   "solid": false,
   "visible": true,

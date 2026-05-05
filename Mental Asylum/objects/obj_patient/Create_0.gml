@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 5240AB75
-/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "var_patientspeed"
-var_patientspeed = 2;
+var_patientspeed = 1;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Random
 /// @DnDVersion : 1.1

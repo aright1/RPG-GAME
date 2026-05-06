@@ -15,9 +15,9 @@ show_debug_message(string(hp));
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 24803D38
-/// @DnDArgument : "expr" "x-200"
+/// @DnDArgument : "expr" "x-50"
 /// @DnDArgument : "var" "x"
-x = x-200;
+x = x-50;
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1

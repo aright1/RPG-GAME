@@ -1,4 +1,14 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 32ED2587
-speed = 0;
+/// @DnDHash : 7266593E
+/// @DnDDisabled : 1
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "x"
+
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 04E7008F
+/// @DnDDisabled : 1
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "y"
